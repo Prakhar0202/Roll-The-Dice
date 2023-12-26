@@ -1,6 +1,6 @@
-# first_app
+# Roll The Dice
 
-A new Flutter project.
+A "Roll the Dice" Flutter application is a simple yet fun project where users can simulate rolling one or more dice on their screen. It's a great way to learn about basic Flutter UI elements, generate random numbers, and handle user interactions.Creating a "Roll the Dice" Flutter application is an enjoyable way to understand basic Flutter concepts while building a fun and interactive app!
 
 ## Getting Started
 
